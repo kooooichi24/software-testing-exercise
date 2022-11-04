@@ -1,0 +1,25 @@
+{
+  "name": "software-testing-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kooooichi24/software-testing-exercise.git"
+  },
+  "author": "Koichi Furukawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kooooichi24/software-testing-exercise/issues"
+  },
+  "homepage": "https://github.com/kooooichi24/software-testing-exercise#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.1",
+    "jest": "^29.2.2",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.8.4"
+  }
+}
